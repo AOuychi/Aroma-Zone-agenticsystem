@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "1",
+    "slug": "creme-hydratante-aloe-vera",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins visage",
+      "lvl3": "Crème visage"
+    },
+    "name": "Crème Hydratante Aloe Vera",
+    "shortDescription": "Hydrate intensément et apaise",
+    "longDescription": "Crème naturelle enrichie en aloe vera et acide hyaluronique pour hydrater, calmer les rougeurs et renforcer la barrière cutanée.",
+    "quality": {
+      "lvl1": "Hydratation",
+      "lvl2": "Apaisante",
+      "lvl3": "Peau souple"
+    },
+    "price": 12,
+    "availableQuantity": 250
+  },
+  {
+    "id": "2",
+    "slug": "creme-anti-age-grenade",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins visage",
+      "lvl3": "Crème visage"
+    },
+    "name": "Crème Anti-âge Grenade",
+    "shortDescription": "Lisse et raffermit",
+    "longDescription": "Formule antioxydante à la grenade bio, collagène végétal et peptides pour réduire rides et améliorer l'élasticité.",
+    "quality": {
+      "lvl1": "Anti-âge",
+      "lvl2": "Fermeté",
+      "lvl3": "Éclat"
+    },
+    "price": 18,
+    "availableQuantity": 180
+  },
+  {
+    "id": "3",
+    "slug": "creme-matifiante-the-vert",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins visage",
+      "lvl3": "Crème visage"
+    },
+    "name": "Crème Matifiante Thé Vert",
+    "shortDescription": "Régule le sébum",
+    "longDescription": "Crème légère au thé vert et zinc PCA, idéale pour peaux mixtes à grasses, resserre les pores.",
+    "quality": {
+      "lvl1": "Matifiant",
+      "lvl2": "Régulateur",
+      "lvl3": "Resserre les pores"
+    },
+    "price": 11,
+    "availableQuantity": 320
+  },
+  {
+    "id": "4",
+    "slug": "serum-vitamine-c",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins visage",
+      "lvl3": "Sérum visage"
+    },
+    "name": "Sérum Vitamine C",
+    "shortDescription": "Éclat immédiat",
+    "longDescription": "Sérum concentré à 15% de Vitamine C stabilisée pour illuminer, gommer taches et uniformiser le teint.",
+    "quality": {
+      "lvl1": "Éclat",
+      "lvl2": "Antitache",
+      "lvl3": "Antioxydant"
+    },
+    "price": 16,
+    "availableQuantity": 200
+  },
+  {
+    "id": "5",
+    "slug": "serum-acide-hyaluronique",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins visage",
+      "lvl3": "Sérum visage"
+    },
+    "name": "Sérum Acide Hyaluronique",
+    "shortDescription": "Repulpe intensément",
+    "longDescription": "Texture gel ultra-hydratante qui repulpe la peau et comble les ridules.",
+    "quality": {
+      "lvl1": "Hydratation",
+      "lvl2": "Repulpant",
+      "lvl3": "Lissant"
+    },
+    "price": 14,
+    "availableQuantity": 240
+  },
+  {
+    "id": "6",
+    "slug": "serum-niacinamide-10",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins visage",
+      "lvl3": "Sérum visage"
+    },
+    "name": "Sérum Niacinamide 10%",
+    "shortDescription": "Purifie et réduit les imperfections",
+    "longDescription": "Idéal pour peaux mixtes à grasses, resserre pores et diminue brillances.",
+    "quality": {
+      "lvl1": "Purifiant",
+      "lvl2": "Resserre pores",
+      "lvl3": "Équilibrant"
+    },
+    "price": 13,
+    "availableQuantity": 300
+  },
+  {
+    "id": "7",
+    "slug": "masque-argile-blanche",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins visage",
+      "lvl3": "Masque visage"
+    },
+    "name": "Masque Argile Blanche",
+    "shortDescription": "Nettoie et adoucit",
+    "longDescription": "Purifie la peau tout en douceur, absorbe l'excès de sébum et éclaire le teint.",
+    "quality": {
+      "lvl1": "Purifiant",
+      "lvl2": "Douceur",
+      "lvl3": "Éclat"
+    },
+    "price": 8,
+    "availableQuantity": 400
+  },
+  {
+    "id": "8",
+    "slug": "masque-charbon-actif",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins visage",
+      "lvl3": "Masque visage"
+    },
+    "name": "Masque Charbon Actif",
+    "shortDescription": "Détoxifie en profondeur",
+    "longDescription": "Élimine impuretés, points noirs et toxines grâce au charbon actif et hydrolat de tea tree.",
+    "quality": {
+      "lvl1": "Détoxifiant",
+      "lvl2": "Anti-imperfections",
+      "lvl3": "Matifiant"
+    },
+    "price": 9,
+    "availableQuantity": 350
+  },
+  {
+    "id": "9",
+    "slug": "masque-hydratant-rose",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins visage",
+      "lvl3": "Masque visage"
+    },
+    "name": "Masque Hydratant Rose",
+    "shortDescription": "Réhydrate intensément",
+    "longDescription": "Enrichi en eau de rose et huiles végétales pour une peau rebondie et souple.",
+    "quality": {
+      "lvl1": "Hydratation",
+      "lvl2": "Apaisant",
+      "lvl3": "Éclat"
+    },
+    "price": 10,
+    "availableQuantity": 280
+  },
+  {
+    "id": "10",
+    "slug": "lotion-coco-nourrissante",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins corps",
+      "lvl3": "Lotion corps"
+    },
+    "name": "Lotion Coco Nourrissante",
+    "shortDescription": "Nourrit profondément",
+    "longDescription": "Enrichie en huile de coco bio pour une peau douce et satinée.",
+    "quality": {
+      "lvl1": "Nourrissant",
+      "lvl2": "Adoucissant",
+      "lvl3": "Peau souple"
+    },
+    "price": 12,
+    "availableQuantity": 260
+  },
+  {
+    "id": "11",
+    "slug": "lotion-aloe-fraicheur",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins corps",
+      "lvl3": "Lotion corps"
+    },
+    "name": "Lotion Aloe Fraîcheur",
+    "shortDescription": "Apaise la peau",
+    "longDescription": "Apporte hydratation légère, idéale après l'exposition au soleil.",
+    "quality": {
+      "lvl1": "Hydratant",
+      "lvl2": "Apaisant",
+      "lvl3": "Léger"
+    },
+    "price": 11,
+    "availableQuantity": 310
+  },
+  {
+    "id": "12",
+    "slug": "lotion-karite-intense",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins corps",
+      "lvl3": "Lotion corps"
+    },
+    "name": "Lotion Karité Intense",
+    "shortDescription": "Répare et régénère",
+    "longDescription": "Formule riche en beurre de karité, parfaite pour peaux très sèches.",
+    "quality": {
+      "lvl1": "Réparateur",
+      "lvl2": "Nourrissant",
+      "lvl3": "Protecteur"
+    },
+    "price": 13,
+    "availableQuantity": 210
+  },
+  {
+    "id": "13",
+    "slug": "gommage-sucre-vanille",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins corps",
+      "lvl3": "Gommage corps"
+    },
+    "name": "Gommage Sucre Vanille",
+    "shortDescription": "Exfolie en douceur",
+    "longDescription": "Ajoute éclat à la peau grâce au sucre blond et huile de vanille.",
+    "quality": {
+      "lvl1": "Exfoliant",
+      "lvl2": "Éclat",
+      "lvl3": "Douceur"
+    },
+    "price": 10,
+    "availableQuantity": 300
+  },
+  {
+    "id": "14",
+    "slug": "gommage-cafe-tonifiant",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins corps",
+      "lvl3": "Gommage corps"
+    },
+    "name": "Gommage Café Tonifiant",
+    "shortDescription": "Lisse et tonifie",
+    "longDescription": "Améliore la microcirculation et raffermit la peau.",
+    "quality": {
+      "lvl1": "Tonifiant",
+      "lvl2": "Lissant",
+      "lvl3": "Revitalisant"
+    },
+    "price": 11,
+    "availableQuantity": 260
+  },
+  {
+    "id": "15",
+    "slug": "gommage-sel-marin",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins corps",
+      "lvl3": "Gommage corps"
+    },
+    "name": "Gommage Sel Marin",
+    "shortDescription": "Purifie intensément",
+    "longDescription": "Élimine les impuretés et stimule la peau grâce au sel marin.",
+    "quality": {
+      "lvl1": "Purifiant",
+      "lvl2": "Stimulant",
+      "lvl3": "Énergisant"
+    },
+    "price": 12,
+    "availableQuantity": 240
+  },
+  {
+    "id": "16",
+    "slug": "huile-d-argan-pure",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins corps",
+      "lvl3": "Huile corporelle"
+    },
+    "name": "Huile d'Argan Pure",
+    "shortDescription": "Nourrit et raffermit",
+    "longDescription": "Huile bio riche en vitamine E, idéale peaux sèches ou matures.",
+    "quality": {
+      "lvl1": "Nourrissant",
+      "lvl2": "Fermeté",
+      "lvl3": "Réparateur"
+    },
+    "price": 15,
+    "availableQuantity": 180
+  },
+  {
+    "id": "17",
+    "slug": "huile-amande-douce",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins corps",
+      "lvl3": "Huile corporelle"
+    },
+    "name": "Huile Amande Douce",
+    "shortDescription": "Apaise et adoucit",
+    "longDescription": "Convient à toute la famille pour prévenir sécheresse et irritations.",
+    "quality": {
+      "lvl1": "Adoucissant",
+      "lvl2": "Apaisant",
+      "lvl3": "Douceur"
+    },
+    "price": 13,
+    "availableQuantity": 200
+  },
+  {
+    "id": "18",
+    "slug": "huile-monoi",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins corps",
+      "lvl3": "Huile corporelle"
+    },
+    "name": "Huile Monoï",
+    "shortDescription": "Hydrate et parfume",
+    "longDescription": "Senteur estivale, idéale après-soleil.",
+    "quality": {
+      "lvl1": "Hydratant",
+      "lvl2": "Parfumé",
+      "lvl3": "Satiné"
+    },
+    "price": 14,
+    "availableQuantity": 250
+  },
+  {
+    "id": "19",
+    "slug": "shampooing-doux-lavande",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins cheveux",
+      "lvl3": "Shampooing"
+    },
+    "name": "Shampooing Doux Lavande",
+    "shortDescription": "Nettoie en douceur",
+    "longDescription": "Idéal pour usage quotidien, apaise le cuir chevelu.",
+    "quality": {
+      "lvl1": "Doux",
+      "lvl2": "Apaisant",
+      "lvl3": "Équilibrant"
+    },
+    "price": 9,
+    "availableQuantity": 330
+  },
+  {
+    "id": "20",
+    "slug": "shampooing-volume-bambou",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins cheveux",
+      "lvl3": "Shampooing"
+    },
+    "name": "Shampooing Volume Bambou",
+    "shortDescription": "Donne du volume",
+    "longDescription": "Lave et amplifie naturellement les cheveux fins.",
+    "quality": {
+      "lvl1": "Volume",
+      "lvl2": "Fortifiant",
+      "lvl3": "Léger"
+    },
+    "price": 10,
+    "availableQuantity": 300
+  },
+  {
+    "id": "21",
+    "slug": "shampooing-anti-pelliculaire-tea-tree",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins cheveux",
+      "lvl3": "Shampooing"
+    },
+    "name": "Shampooing Anti-pelliculaire Tea Tree",
+    "shortDescription": "Purifie et réduit les pellicules",
+    "longDescription": "Action antibactérienne & antifongique.",
+    "quality": {
+      "lvl1": "Purifiant",
+      "lvl2": "Anti-pelliculaire",
+      "lvl3": "Assainissant"
+    },
+    "price": 11,
+    "availableQuantity": 260
+  },
+  {
+    "id": "22",
+    "slug": "masque-karite-intense",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins cheveux",
+      "lvl3": "Masque capillaire"
+    },
+    "name": "Masque Karité Intense",
+    "shortDescription": "Répare et nourrit",
+    "longDescription": "Idéal cheveux secs et cassants.",
+    "quality": {
+      "lvl1": "Nourrissant",
+      "lvl2": "Fortifiant",
+      "lvl3": "Anti-casse"
+    },
+    "price": 14,
+    "availableQuantity": 210
+  },
+  {
+    "id": "23",
+    "slug": "masque-coco-brillance",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins cheveux",
+      "lvl3": "Masque capillaire"
+    },
+    "name": "Masque Coco Brillance",
+    "shortDescription": "Apporte brillance",
+    "longDescription": "Rend les cheveux doux et lumineux.",
+    "quality": {
+      "lvl1": "Brillance",
+      "lvl2": "Douceur",
+      "lvl3": "Soin léger"
+    },
+    "price": 13,
+    "availableQuantity": 240
+  },
+  {
+    "id": "24",
+    "slug": "masque-spiruline",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins cheveux",
+      "lvl3": "Masque capillaire"
+    },
+    "name": "Masque Spiruline",
+    "shortDescription": "Renforce la fibre capillaire",
+    "longDescription": "Riche en protéines pour cheveux fragiles.",
+    "quality": {
+      "lvl1": "Fortifiant",
+      "lvl2": "Renforçant",
+      "lvl3": "Énergisant"
+    },
+    "price": 15,
+    "availableQuantity": 180
+  },
+  {
+    "id": "25",
+    "slug": "huile-de-ricin",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins cheveux",
+      "lvl3": "Huile capillaire"
+    },
+    "name": "Huile de Ricin",
+    "shortDescription": "Favorise la pousse",
+    "longDescription": "Stimule la croissance et fortifie.",
+    "quality": {
+      "lvl1": "Pousse",
+      "lvl2": "Fortifiant",
+      "lvl3": "Nourrissant"
+    },
+    "price": 12,
+    "availableQuantity": 220
+  },
+  {
+    "id": "26",
+    "slug": "huile-jojoba",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins cheveux",
+      "lvl3": "Huile capillaire"
+    },
+    "name": "Huile Jojoba",
+    "shortDescription": "Régule le sébum",
+    "longDescription": "Idéale cheveux gras ou mixtes.",
+    "quality": {
+      "lvl1": "Régulateur",
+      "lvl2": "Lissant",
+      "lvl3": "Équilibrant"
+    },
+    "price": 11,
+    "availableQuantity": 260
+  },
+  {
+    "id": "27",
+    "slug": "huile-avocat",
+    "category": {
+      "lvl1": "Beauté",
+      "lvl2": "Soins cheveux",
+      "lvl3": "Huile capillaire"
+    },
+    "name": "Huile Avocat",
+    "shortDescription": "Nourrit profondément",
+    "longDescription": "Particulièrement adaptée aux cheveux bouclés.",
+    "quality": {
+      "lvl1": "Nourrissant",
+      "lvl2": "Définition boucles",
+      "lvl3": "Réparateur"
+    },
+    "price": 13,
+    "availableQuantity": 200
+  },
+  {
+    "id": "28",
+    "slug": "vitamine-c-naturelle-camu-camu",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Complément alimentaires",
+      "lvl3": "Vitamines"
+    },
+    "name": "Vitamine C Naturelle Camu Camu",
+    "shortDescription": "Boost immunité",
+    "longDescription": "Riche en antioxydants naturels.",
+    "quality": {
+      "lvl1": "Immunité",
+      "lvl2": "Énergie",
+      "lvl3": "Antioxydant"
+    },
+    "price": 9,
+    "availableQuantity": 300
+  },
+  {
+    "id": "29",
+    "slug": "vitamine-d3-vegetale",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Complément alimentaires",
+      "lvl3": "Vitamines"
+    },
+    "name": "Vitamine D3 Végétale",
+    "shortDescription": "Renforce os et immunité",
+    "longDescription": "Source végétale issue du lichen.",
+    "quality": {
+      "lvl1": "Os",
+      "lvl2": "Immunité",
+      "lvl3": "Absorption calcium"
+    },
+    "price": 12,
+    "availableQuantity": 260
+  },
+  {
+    "id": "30",
+    "slug": "complexe-vitamines-b",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Complément alimentaires",
+      "lvl3": "Vitamines"
+    },
+    "name": "Complexe Vitamines B",
+    "shortDescription": "Énergie & système nerveux",
+    "longDescription": "Idéal fatigue chronique.",
+    "quality": {
+      "lvl1": "Énergie",
+      "lvl2": "Nerveux",
+      "lvl3": "Équilibrant"
+    },
+    "price": 10,
+    "availableQuantity": 240
+  },
+  {
+    "id": "31",
+    "slug": "magnesium-marin",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Complément alimentaires",
+      "lvl3": "Minéraux"
+    },
+    "name": "Magnesium Marin",
+    "shortDescription": "Réduit stress et fatigue",
+    "longDescription": "Hautement assimilable.",
+    "quality": {
+      "lvl1": "Anti-stress",
+      "lvl2": "Relaxant",
+      "lvl3": "Énergie"
+    },
+    "price": 11,
+    "availableQuantity": 280
+  },
+  {
+    "id": "32",
+    "slug": "zinc-bisglycinate",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Complément alimentaires",
+      "lvl3": "Minéraux"
+    },
+    "name": "Zinc Bisglycinate",
+    "shortDescription": "Peau & immunité",
+    "longDescription": "Très biodisponible.",
+    "quality": {
+      "lvl1": "Immunité",
+      "lvl2": "Peau",
+      "lvl3": "Antioxydant"
+    },
+    "price": 10,
+    "availableQuantity": 300
+  },
+  {
+    "id": "33",
+    "slug": "fer-vegetal",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Complément alimentaires",
+      "lvl3": "Minéraux"
+    },
+    "name": "Fer Végétal",
+    "shortDescription": "Lutte contre la fatigue",
+    "longDescription": "Extrait de curry bio.",
+    "quality": {
+      "lvl1": "Énergie",
+      "lvl2": "Fer",
+      "lvl3": "Équilibrant"
+    },
+    "price": 13,
+    "availableQuantity": 230
+  },
+  {
+    "id": "34",
+    "slug": "probiotiques-20m",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Complément alimentaires",
+      "lvl3": "Bien-être digestif"
+    },
+    "name": "Probiotiques 20M",
+    "shortDescription": "Équilibre microbiote",
+    "longDescription": "Améliore digestion.",
+    "quality": {
+      "lvl1": "Digestif",
+      "lvl2": "Équilibre intestinal",
+      "lvl3": "Confort"
+    },
+    "price": 14,
+    "availableQuantity": 250
+  },
+  {
+    "id": "35",
+    "slug": "charbon-vegetal-active",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Complément alimentaires",
+      "lvl3": "Bien-être digestif"
+    },
+    "name": "Charbon Végétal Activé",
+    "shortDescription": "Détox & gaz",
+    "longDescription": "Atténue ballonnements.",
+    "quality": {
+      "lvl1": "Détox",
+      "lvl2": "Anti-gaz",
+      "lvl3": "Purifiant"
+    },
+    "price": 9,
+    "availableQuantity": 310
+  },
+  {
+    "id": "36",
+    "slug": "enzymes-digestives",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Complément alimentaires",
+      "lvl3": "Bien-être digestif"
+    },
+    "name": "Enzymes Digestives",
+    "shortDescription": "Améliore assimilation",
+    "longDescription": "Parfait après repas lourds.",
+    "quality": {
+      "lvl1": "Assimilation",
+      "lvl2": "Digestion",
+      "lvl3": "Confort"
+    },
+    "price": 12,
+    "availableQuantity": 210
+  },
+  {
+    "id": "37",
+    "slug": "huile-d-olive-bio",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Cuisine",
+      "lvl3": "Huiles alimentaires"
+    },
+    "name": "Huile d'Olive Bio",
+    "shortDescription": "Saveur douce",
+    "longDescription": "Pressée à froid.",
+    "quality": {
+      "lvl1": "Douceur",
+      "lvl2": "Antioxydant",
+      "lvl3": "Omegas"
+    },
+    "price": 8,
+    "availableQuantity": 340
+  },
+  {
+    "id": "38",
+    "slug": "huile-de-coco-alimentaire",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Cuisine",
+      "lvl3": "Huiles alimentaires"
+    },
+    "name": "Huile de Coco Alimentaire",
+    "shortDescription": "Cuisson & pâtisserie",
+    "longDescription": "100% naturelle.",
+    "quality": {
+      "lvl1": "Stable",
+      "lvl2": "Fruité",
+      "lvl3": "Nourrissant"
+    },
+    "price": 7,
+    "availableQuantity": 380
+  },
+  {
+    "id": "39",
+    "slug": "huile-de-sesame",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Cuisine",
+      "lvl3": "Huiles alimentaires"
+    },
+    "name": "Huile de Sésame",
+    "shortDescription": "Saveur asiatique",
+    "longDescription": "Aromatique et riche en nutriments.",
+    "quality": {
+      "lvl1": "Goût riche",
+      "lvl2": "Aromatique",
+      "lvl3": "Omegas"
+    },
+    "price": 9,
+    "availableQuantity": 300
+  },
+  {
+    "id": "40",
+    "slug": "sucre-de-coco",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Cuisine",
+      "lvl3": "Sucre édulcorants"
+    },
+    "name": "Sucre de Coco",
+    "shortDescription": "Goût caramélisé",
+    "longDescription": "Indice glycémique bas.",
+    "quality": {
+      "lvl1": "IG bas",
+      "lvl2": "Parfumé",
+      "lvl3": "Naturel"
+    },
+    "price": 6,
+    "availableQuantity": 400
+  },
+  {
+    "id": "41",
+    "slug": "stevia-pure",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Cuisine",
+      "lvl3": "Sucre édulcorants"
+    },
+    "name": "Stévia Pure",
+    "shortDescription": "Zéro calorie",
+    "longDescription": "Édulcorant naturel.",
+    "quality": {
+      "lvl1": "Léger",
+      "lvl2": "Zéro sucre",
+      "lvl3": "Naturel"
+    },
+    "price": 5,
+    "availableQuantity": 420
+  },
+  {
+    "id": "42",
+    "slug": "sirop-d-agave",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Cuisine",
+      "lvl3": "Sucre édulcorants"
+    },
+    "name": "Sirop d’Agave",
+    "shortDescription": "Douceur liquide",
+    "longDescription": "Bonne alternative au sucre.",
+    "quality": {
+      "lvl1": "Douceur",
+      "lvl2": "IG modéré",
+      "lvl3": "Naturel"
+    },
+    "price": 7,
+    "availableQuantity": 390
+  },
+  {
+    "id": "43",
+    "slug": "poudre-spiruline",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Cuisine",
+      "lvl3": "Superfoods"
+    },
+    "name": "Poudre Spiruline",
+    "shortDescription": "Énergie & protéines",
+    "longDescription": "Idéale sportifs.",
+    "quality": {
+      "lvl1": "Énergie",
+      "lvl2": "Protéines",
+      "lvl3": "Détox"
+    },
+    "price": 10,
+    "availableQuantity": 260
+  },
+  {
+    "id": "44",
+    "slug": "graines-de-chia",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Cuisine",
+      "lvl3": "Superfoods"
+    },
+    "name": "Graines de Chia",
+    "shortDescription": "Riche en fibres",
+    "longDescription": "Source végétale d’oméga-3.",
+    "quality": {
+      "lvl1": "Fibres",
+      "lvl2": "Omegas",
+      "lvl3": "Énergie"
+    },
+    "price": 7,
+    "availableQuantity": 350
+  },
+  {
+    "id": "45",
+    "slug": "poudre-cacao-cru",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Cuisine",
+      "lvl3": "Superfoods"
+    },
+    "name": "Poudre Cacao Cru",
+    "shortDescription": "Antioxydants naturels",
+    "longDescription": "Goût intense.",
+    "quality": {
+      "lvl1": "Antioxydant",
+      "lvl2": "Naturel",
+      "lvl3": "Énergie"
+    },
+    "price": 8,
+    "availableQuantity": 300
+  },
+  {
+    "id": "46",
+    "slug": "proteine-pois-vanille",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Sportif",
+      "lvl3": "Protéines"
+    },
+    "name": "Protéine Pois Vanille",
+    "shortDescription": "Construction musculaire",
+    "longDescription": "Sans lactose.",
+    "quality": {
+      "lvl1": "Muscles",
+      "lvl2": "Vegan",
+      "lvl3": "Digestion facile"
+    },
+    "price": 16,
+    "availableQuantity": 260
+  },
+  {
+    "id": "47",
+    "slug": "whey-isolate-nature",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Sportif",
+      "lvl3": "Protéines"
+    },
+    "name": "Whey Isolate Nature",
+    "shortDescription": "Haute pureté",
+    "longDescription": "Idéale post-training.",
+    "quality": {
+      "lvl1": "Pureté",
+      "lvl2": "Muscles",
+      "lvl3": "Assimilation"
+    },
+    "price": 19,
+    "availableQuantity": 220
+  },
+  {
+    "id": "48",
+    "slug": "proteine-riz-brun",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Sportif",
+      "lvl3": "Protéines"
+    },
+    "name": "Protéine Riz Brun",
+    "shortDescription": "Hypoallergénique",
+    "longDescription": "Riche en acides aminés.",
+    "quality": {
+      "lvl1": "Hypoallergénique",
+      "lvl2": "Naturel",
+      "lvl3": "Énergie"
+    },
+    "price": 15,
+    "availableQuantity": 240
+  },
+  {
+    "id": "49",
+    "slug": "boisson-energie-guarana",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Sportif",
+      "lvl3": "Boost énergie"
+    },
+    "name": "Boisson Énergie Guarana",
+    "shortDescription": "Boost naturel",
+    "longDescription": "Sans sucre ajouté.",
+    "quality": {
+      "lvl1": "Énergie",
+      "lvl2": "Naturel",
+      "lvl3": "Stimulant"
+    },
+    "price": 6,
+    "availableQuantity": 380
+  },
+  {
+    "id": "50",
+    "slug": "poudre-maca",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Sportif",
+      "lvl3": "Boost énergie"
+    },
+    "name": "Poudre Maca",
+    "shortDescription": "Vitalité",
+    "longDescription": "Améliore endurance.",
+    "quality": {
+      "lvl1": "Endurance",
+      "lvl2": "Vitalité",
+      "lvl3": "Naturel"
+    },
+    "price": 9,
+    "availableQuantity": 340
+  },
+  {
+    "id": "51",
+    "slug": "l-carnitine",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Sportif",
+      "lvl3": "Boost énergie"
+    },
+    "name": "L-Carnitine",
+    "shortDescription": "Énergie & brûle-graisse",
+    "longDescription": "Idéal avant séance.",
+    "quality": {
+      "lvl1": "Énergie",
+      "lvl2": "Brûleur",
+      "lvl3": "Concentration"
+    },
+    "price": 14,
+    "availableQuantity": 200
+  },
+  {
+    "id": "52",
+    "slug": "bcaa-2-1-1",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Sportif",
+      "lvl3": "Récupération"
+    },
+    "name": "BCAA 2:1:1",
+    "shortDescription": "Réduit fatigue musculaire",
+    "longDescription": "Idéal après entraînement.",
+    "quality": {
+      "lvl1": "Récupération",
+      "lvl2": "Muscles",
+      "lvl3": "Énergie"
+    },
+    "price": 17,
+    "availableQuantity": 210
+  },
+  {
+    "id": "53",
+    "slug": "electrolytes-hydratation",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Sportif",
+      "lvl3": "Récupération"
+    },
+    "name": "Électrolytes Hydratation",
+    "shortDescription": "Réhydrate rapidement",
+    "longDescription": "Parfait sport intensif.",
+    "quality": {
+      "lvl1": "Hydratation",
+      "lvl2": "Énergie",
+      "lvl3": "Récupération"
+    },
+    "price": 10,
+    "availableQuantity": 300
+  },
+  {
+    "id": "54",
+    "slug": "collagene-peptides",
+    "category": {
+      "lvl1": "Nutrition",
+      "lvl2": "Sportif",
+      "lvl3": "Récupération"
+    },
+    "name": "Collagène Peptides",
+    "shortDescription": "Articulations & muscles",
+    "longDescription": "Assimilation rapide.",
+    "quality": {
+      "lvl1": "Articulations",
+      "lvl2": "Muscles",
+      "lvl3": "Récupération"
+    },
+    "price": 18,
+    "availableQuantity": 190
+  }
+]

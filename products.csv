@@ -1,0 +1,55 @@
+product_category_lvl1,product_category_lvl2,product_category_lvl3,product_name,product_short_description,product_long_description,product_quality_lvl1,product_quality_lvl2,product_quality_lvl3,price,available_quantity
+Beauté,Soins visage,Crème visage,Crème Hydratante Aloe Vera,Hydrate intensément et apaise,"Crème naturelle enrichie en aloe vera et acide hyaluronique pour hydrater, calmer les rougeurs et renforcer la barrière cutanée.",Hydratation,Apaisante,Peau souple,12,250
+Beauté,Soins visage,Crème visage,Crème Anti-âge Grenade,Lisse et raffermit,"Formule antioxydante à la grenade bio, collagène végétal et peptides pour réduire rides et améliorer l'élasticité.",Anti-âge,Fermeté,Éclat,18,180
+Beauté,Soins visage,Crème visage,Crème Matifiante Thé Vert,Régule le sébum,"Crème légère au thé vert et zinc PCA, idéale pour peaux mixtes à grasses, resserre les pores.",Matifiant,Régulateur,Resserre les pores,11,320
+Beauté,Soins visage,Sérum visage,Sérum Vitamine C,Éclat immédiat,"Sérum concentré à 15% de Vitamine C stabilisée pour illuminer, gommer taches et uniformiser le teint.",Éclat,Antitache,Antioxydant,16,200
+Beauté,Soins visage,Sérum visage,Sérum Acide Hyaluronique,Repulpe intensément,Texture gel ultra-hydratante qui repulpe la peau et comble les ridules.,Hydratation,Repulpant,Lissant,14,240
+Beauté,Soins visage,Sérum visage,Sérum Niacinamide 10%,Purifie et réduit les imperfections,"Idéal pour peaux mixtes à grasses, resserre pores et diminue brillances.",Purifiant,Resserre pores,Équilibrant,13,300
+Beauté,Soins visage,Masque visage,Masque Argile Blanche,Nettoie et adoucit,"Purifie la peau tout en douceur, absorbe l'excès de sébum et éclaire le teint.",Purifiant,Douceur,Éclat,8,400
+Beauté,Soins visage,Masque visage,Masque Charbon Actif,Détoxifie en profondeur,"Élimine impuretés, points noirs et toxines grâce au charbon actif et hydrolat de tea tree.",Détoxifiant,Anti-imperfections,Matifiant,9,350
+Beauté,Soins visage,Masque visage,Masque Hydratant Rose,Réhydrate intensément,Enrichi en eau de rose et huiles végétales pour une peau rebondie et souple.,Hydratation,Apaisant,Éclat,10,280
+Beauté,Soins corps,Lotion corps,Lotion Coco Nourrissante,Nourrit profondément,Enrichie en huile de coco bio pour une peau douce et satinée.,Nourrissant,Adoucissant,Peau souple,12,260
+Beauté,Soins corps,Lotion corps,Lotion Aloe Fraîcheur,Apaise la peau,"Apporte hydratation légère, idéale après l'exposition au soleil.",Hydratant,Apaisant,Léger,11,310
+Beauté,Soins corps,Lotion corps,Lotion Karité Intense,Répare et régénère,"Formule riche en beurre de karité, parfaite pour peaux très sèches.",Réparateur,Nourrissant,Protecteur,13,210
+Beauté,Soins corps,Gommage corps,Gommage Sucre Vanille,Exfolie en douceur,Ajoute éclat à la peau grâce au sucre blond et huile de vanille.,Exfoliant,Éclat,Douceur,10,300
+Beauté,Soins corps,Gommage corps,Gommage Café Tonifiant,Lisse et tonifie,Améliore la microcirculation et raffermit la peau.,Tonifiant,Lissant,Revitalisant,11,260
+Beauté,Soins corps,Gommage corps,Gommage Sel Marin,Purifie intensément,Élimine les impuretés et stimule la peau grâce au sel marin.,Purifiant,Stimulant,Énergisant,12,240
+Beauté,Soins corps,Huile corporelle,Huile d'Argan Pure,Nourrit et raffermit,"Huile bio riche en vitamine E, idéale peaux sèches ou matures.",Nourrissant,Fermeté,Réparateur,15,180
+Beauté,Soins corps,Huile corporelle,Huile Amande Douce,Apaise et adoucit,Convient à toute la famille pour prévenir sécheresse et irritations.,Adoucissant,Apaisant,Douceur,13,200
+Beauté,Soins corps,Huile corporelle,Huile Monoï,Hydrate et parfume,"Senteur estivale, idéale après-soleil.",Hydratant,Parfumé,Satiné,14,250
+Beauté,Soins cheveux,Shampooing,Shampooing Doux Lavande,Nettoie en douceur,"Idéal pour usage quotidien, apaise le cuir chevelu.",Doux,Apaisant,Équilibrant,9,330
+Beauté,Soins cheveux,Shampooing,Shampooing Volume Bambou,Donne du volume,Lave et amplifie naturellement les cheveux fins.,Volume,Fortifiant,Léger,10,300
+Beauté,Soins cheveux,Shampooing,Shampooing Anti-pelliculaire Tea Tree,Purifie et réduit les pellicules,Action antibactérienne & antifongique.,Purifiant,Anti-pelliculaire,Assainissant,11,260
+Beauté,Soins cheveux,Masque capillaire,Masque Karité Intense,Répare et nourrit,Idéal cheveux secs et cassants.,Nourrissant,Fortifiant,Anti-casse,14,210
+Beauté,Soins cheveux,Masque capillaire,Masque Coco Brillance,Apporte brillance,Rend les cheveux doux et lumineux.,Brillance,Douceur,Soin léger,13,240
+Beauté,Soins cheveux,Masque capillaire,Masque Spiruline,Renforce la fibre capillaire,Riche en protéines pour cheveux fragiles.,Fortifiant,Renforçant,Énergisant,15,180
+Beauté,Soins cheveux,Huile capillaire,Huile de Ricin,Favorise la pousse,Stimule la croissance et fortifie.,Pousse,Fortifiant,Nourrissant,12,220
+Beauté,Soins cheveux,Huile capillaire,Huile Jojoba,Régule le sébum,Idéale cheveux gras ou mixtes.,Régulateur,Lissant,Équilibrant,11,260
+Beauté,Soins cheveux,Huile capillaire,Huile Avocat,Nourrit profondément,Particulièrement adaptée aux cheveux bouclés.,Nourrissant,Définition boucles,Réparateur,13,200
+Nutrition,Complément alimentaires,Vitamines,Vitamine C Naturelle Camu Camu,Boost immunité,Riche en antioxydants naturels.,Immunité,Énergie,Antioxydant,9,300
+Nutrition,Complément alimentaires,Vitamines,Vitamine D3 Végétale,Renforce os et immunité,Source végétale issue du lichen.,Os,Immunité,Absorption calcium,12,260
+Nutrition,Complément alimentaires,Vitamines,Complexe Vitamines B,Énergie & système nerveux,Idéal fatigue chronique.,Énergie,Nerveux,Équilibrant,10,240
+Nutrition,Complément alimentaires,Minéraux,Magnesium Marin,Réduit stress et fatigue,Hautement assimilable.,Anti-stress,Relaxant,Énergie,11,280
+Nutrition,Complément alimentaires,Minéraux,Zinc Bisglycinate,Peau & immunité,Très biodisponible.,Immunité,Peau,Antioxydant,10,300
+Nutrition,Complément alimentaires,Minéraux,Fer Végétal,Lutte contre la fatigue,Extrait de curry bio.,Énergie,Fer,Équilibrant,13,230
+Nutrition,Complément alimentaires,Bien-être digestif,Probiotiques 20M,Équilibre microbiote,Améliore digestion.,Digestif,Équilibre intestinal,Confort,14,250
+Nutrition,Complément alimentaires,Bien-être digestif,Charbon Végétal Activé,Détox & gaz,Atténue ballonnements.,Détox,Anti-gaz,Purifiant,9,310
+Nutrition,Complément alimentaires,Bien-être digestif,Enzymes Digestives,Améliore assimilation,Parfait après repas lourds.,Assimilation,Digestion,Confort,12,210
+Nutrition,Cuisine,Huiles alimentaires,Huile d'Olive Bio,Saveur douce,Pressée à froid.,Douceur,Antioxydant,Omegas,8,340
+Nutrition,Cuisine,Huiles alimentaires,Huile de Coco Alimentaire,Cuisson & pâtisserie,100% naturelle.,Stable,Fruité,Nourrissant,7,380
+Nutrition,Cuisine,Huiles alimentaires,Huile de Sésame,Saveur asiatique,Aromatique et riche en nutriments.,Goût riche,Aromatique,Omegas,9,300
+Nutrition,Cuisine,Sucre édulcorants,Sucre de Coco,Goût caramélisé,Indice glycémique bas.,IG bas,Parfumé,Naturel,6,400
+Nutrition,Cuisine,Sucre édulcorants,Stévia Pure,Zéro calorie,Édulcorant naturel.,Léger,Zéro sucre,Naturel,5,420
+Nutrition,Cuisine,Sucre édulcorants,Sirop d’Agave,Douceur liquide,Bonne alternative au sucre.,Douceur,IG modéré,Naturel,7,390
+Nutrition,Cuisine,Superfoods,Poudre Spiruline,Énergie & protéines,Idéale sportifs.,Énergie,Protéines,Détox,10,260
+Nutrition,Cuisine,Superfoods,Graines de Chia,Riche en fibres,Source végétale d’oméga-3.,Fibres,Omegas,Énergie,7,350
+Nutrition,Cuisine,Superfoods,Poudre Cacao Cru,Antioxydants naturels,Goût intense.,Antioxydant,Naturel,Énergie,8,300
+Nutrition,Sportif,Protéines,Protéine Pois Vanille,Construction musculaire,Sans lactose.,Muscles,Vegan,Digestion facile,16,260
+Nutrition,Sportif,Protéines,Whey Isolate Nature,Haute pureté,Idéale post-training.,Pureté,Muscles,Assimilation,19,220
+Nutrition,Sportif,Protéines,Protéine Riz Brun,Hypoallergénique,Riche en acides aminés.,Hypoallergénique,Naturel,Énergie,15,240
+Nutrition,Sportif,Boost énergie,Boisson Énergie Guarana,Boost naturel,Sans sucre ajouté.,Énergie,Naturel,Stimulant,6,380
+Nutrition,Sportif,Boost énergie,Poudre Maca,Vitalité,Améliore endurance.,Endurance,Vitalité,Naturel,9,340
+Nutrition,Sportif,Boost énergie,L-Carnitine,Énergie & brûle-graisse,Idéal avant séance.,Énergie,Brûleur,Concentration,14,200
+Nutrition,Sportif,Récupération,BCAA 2:1:1,Réduit fatigue musculaire,Idéal après entraînement.,Récupération,Muscles,Énergie,17,210
+Nutrition,Sportif,Récupération,Électrolytes Hydratation,Réhydrate rapidement,Parfait sport intensif.,Hydratation,Énergie,Récupération,10,300
+Nutrition,Sportif,Récupération,Collagène Peptides,Articulations & muscles,Assimilation rapide.,Articulations,Muscles,Récupération,18,190
