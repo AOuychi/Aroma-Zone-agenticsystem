@@ -33,6 +33,21 @@ export default function ProductsPage() {
 
     let filtered = [...allProducts];
     const category = searchParams.get('category');
+    const search = searchParams.get('search');
+
+    // Apply search filter from URL
+    if (search) {
+      const searchTerm = search.toLowerCase();
+      filtered = filtered.filter(
+        (p) =>
+          p.name.toLowerCase().includes(searchTerm) ||
+          p.shortDescription.toLowerCase().includes(searchTerm) ||
+          p.longDescription.toLowerCase().includes(searchTerm) ||
+          p.category.lvl1.toLowerCase().includes(searchTerm) ||
+          p.category.lvl2.toLowerCase().includes(searchTerm) ||
+          p.category.lvl3.toLowerCase().includes(searchTerm)
+      );
+    }
 
     // Apply category filter from URL
     if (category) {
@@ -63,11 +78,18 @@ export default function ProductsPage() {
           <p className="text-gray-600 mb-4">
             Découvrez notre sélection complète de produits naturels
           </p>
-          {searchParams.get('category') && (
-            <div className="inline-block bg-aroma-green-light text-aroma-green px-4 py-2 rounded-aroma text-sm font-medium">
-              Filtre actif : {searchParams.get('category')}
-            </div>
-          )}
+          <div className="flex flex-wrap gap-2">
+            {searchParams.get('category') && (
+              <div className="inline-block bg-aroma-green-light text-aroma-green px-4 py-2 rounded-aroma text-sm font-medium">
+                Catégorie : {searchParams.get('category')}
+              </div>
+            )}
+            {searchParams.get('search') && (
+              <div className="inline-block bg-aroma-beige text-gray-700 px-4 py-2 rounded-aroma text-sm font-medium">
+                Recherche : "{searchParams.get('search')}"
+              </div>
+            )}
+          </div>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">

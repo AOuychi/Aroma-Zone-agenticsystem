@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { loadProducts } from '@/lib/loadProducts';
 import ProductGrid from '@/components/ProductGrid';
+import SearchBar from '@/components/SearchBar';
 
 export default function Home() {
   const allProducts = loadProducts();
@@ -33,6 +34,12 @@ export default function Home() {
             Découvrez notre sélection de produits naturels et bio pour votre beauté, 
             votre nutrition et votre bien-être.
           </p>
+          
+          {/* Search Bar */}
+          <div className="mb-8">
+            <SearchBar />
+          </div>
+          
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
               href="/products"
