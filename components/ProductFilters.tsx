@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { useSearchParams, useRouter } from 'next/navigation';
 import { Product } from '@/lib/loadProducts';
 
 interface ProductFiltersProps {
@@ -9,9 +10,13 @@ interface ProductFiltersProps {
 }
 
 export default function ProductFilters({ products, onFilterChange }: ProductFiltersProps) {
-  const [selectedCategory, setSelectedCategory] = useState<string>('');
+  const searchParams = useSearchParams();
+  const router = useRouter();
   const [selectedQuality, setSelectedQuality] = useState<string>('');
   const [searchTerm, setSearchTerm] = useState('');
+
+  // Get category from URL (source of truth)
+  const selectedCategory = searchParams.get('category') || '';
 
   // Extract unique categories and qualities
   const categories = Array.from(
@@ -21,6 +26,17 @@ export default function ProductFilters({ products, onFilterChange }: ProductFilt
   const qualities = Array.from(
     new Set(products.flatMap((p) => [p.quality.lvl1, p.quality.lvl2, p.quality.lvl3]))
   ).filter(Boolean);
+
+  // Handle category change and update URL
+  const handleCategoryChange = (category: string) => {
+    const params = new URLSearchParams(searchParams.toString());
+    if (category) {
+      params.set('category', category);
+    } else {
+      params.delete('category');
+    }
+    router.push(`/products?${params.toString()}`, { scroll: false });
+  };
 
   useEffect(() => {
     let filtered = [...products];
@@ -36,7 +52,7 @@ export default function ProductFilters({ products, onFilterChange }: ProductFilt
       );
     }
 
-    // Category filter
+    // Category filter (from URL)
     if (selectedCategory) {
       filtered = filtered.filter(
         (p) =>
@@ -84,7 +100,7 @@ export default function ProductFilters({ products, onFilterChange }: ProductFilt
         </label>
         <select
           value={selectedCategory}
-          onChange={(e) => setSelectedCategory(e.target.value)}
+          onChange={(e) => handleCategoryChange(e.target.value)}
           className="w-full px-4 py-2 border border-aroma-green-light rounded-lg focus:outline-none focus:ring-2 focus:ring-aroma-green"
         >
           <option value="">Toutes les catégories</option>
@@ -118,7 +134,7 @@ export default function ProductFilters({ products, onFilterChange }: ProductFilt
       {/* Reset */}
       <button
         onClick={() => {
-          setSelectedCategory('');
+          handleCategoryChange('');
           setSelectedQuality('');
           setSearchTerm('');
         }}

@@ -1,13 +1,14 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useSearchParams } from 'next/navigation';
+import { useSearchParams, useRouter } from 'next/navigation';
 import { Product } from '@/lib/loadProducts';
 import ProductGrid from '@/components/ProductGrid';
 import ProductFilters from '@/components/ProductFilters';
 
 export default function ProductsPage() {
   const searchParams = useSearchParams();
+  const router = useRouter();
   const [allProducts, setAllProducts] = useState<Product[]>([]);
   const [filteredProducts, setFilteredProducts] = useState<Product[]>([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -18,26 +19,33 @@ export default function ProductsPage() {
       .then((res) => res.json())
       .then((products: Product[]) => {
         setAllProducts(products);
-        setFilteredProducts(products);
         setIsLoading(false);
-
-        // Apply category filter from URL
-        const category = searchParams.get('category');
-        if (category) {
-          const filtered = products.filter(
-            (p) =>
-              p.category.lvl1 === category ||
-              p.category.lvl2 === category ||
-              p.category.lvl3 === category
-          );
-          setFilteredProducts(filtered);
-        }
       })
       .catch((error) => {
         console.error('Error loading products:', error);
         setIsLoading(false);
       });
-  }, [searchParams]);
+  }, []);
+
+  // Apply filters when products or URL params change
+  useEffect(() => {
+    if (allProducts.length === 0) return;
+
+    let filtered = [...allProducts];
+    const category = searchParams.get('category');
+
+    // Apply category filter from URL
+    if (category) {
+      filtered = filtered.filter(
+        (p) =>
+          p.category.lvl1 === category ||
+          p.category.lvl2 === category ||
+          p.category.lvl3 === category
+      );
+    }
+
+    setFilteredProducts(filtered);
+  }, [allProducts, searchParams]);
 
   if (isLoading) {
     return (
